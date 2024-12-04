@@ -1,4 +1,4 @@
-This project centers around the comprehensive analysis of three distinct datasets: movie Data, critic reviews, and user reviews. The scope of the project encompasses various aspects, including:
+This project centers around the comprehensive analysis of three distinct datasets: "movie data", "critic reviews", and "user reviews". The scope of the project encompasses various aspects, including:
 
 - Data Cleaning: Ensuring data integrity and quality for accurate analysis<br/>
 - Data Analysis: Identifying and evaluating the best movies based on various metrics<br/>
